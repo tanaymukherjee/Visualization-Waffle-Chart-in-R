@@ -1,3 +1,6 @@
+# Tanay Mukherjee
+# 20 Nov. 2019
+
 # install waffle package
 # install.packages("waffle") 
 library(waffle)
